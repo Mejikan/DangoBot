@@ -1,0 +1,7 @@
+- integrate with Twitch chat
+  - have an on/off switch
+- white-list channels to listen for commands
+- set reminders
+- database to hold messages and points
+- skips all same songs in queue
+- loop command will queue multiple of the same song
