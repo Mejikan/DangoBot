@@ -14,18 +14,18 @@
   "author": "Kei, Meji",
   "license": "ISC",
   "dependencies": {
-    "bufferutil": "^3.0.2",
-    "discord.js": "^11.1.0",
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
     "erlpack": "^0.1.2",
     "ffmpeg-binaries": "^3.2.2",
-    "libsodium-wrappers": "^0.5.2",
-    "mongodb": "^2.2.31",
-    "node-opus": "^0.2.6",
+    "libsodium-wrappers": "^0.5.4",
+    "mongodb": "^2.2.35",
+    "node-opus": "^0.2.9",
     "opusscript": "0.0.3",
-    "request": "^2.81.0",
-    "sodium": "^2.0.1",
-    "soundcloud": "^3.1.2",
+    "request": "^2.86.0",
+    "sodium": "^2.0.3",
+    "soundcloud": "^3.3.0",
     "uws": "^8.14.1",
-    "ytdl-core": "^0.15.1"
+    "ytdl-core": "^0.15.2"
   }
 }
